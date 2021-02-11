@@ -27,6 +27,10 @@ h2 {
     color: blue
 }
 
+p {
+	color: white
+}
+
 /* this will make the page background black */
 body {
     background-color: black; /* bc dark mode 4 teh youngs */
