@@ -19,19 +19,22 @@ PROPERTY : VALUE;
 
 /* this will style all h1 elements with color red */
 h1 {
-    color: red
+    color: rgb(0, 214, 255)
 }
 
 /* this will style all h2 elements with color blue */
 h2 {
-    color: blue
+    color: rgb(0, 214, 255)
 }
 
 p {
 	color: white
 }
 
-/* this will make the page background black */
+li {
+	color:white
+}
+
 body {
-    background-color: black; /* bc dark mode 4 teh youngs */
+    background-color: rgb(64, 64, 64);
 }
