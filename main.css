@@ -14,7 +14,7 @@ PROPERTY : VALUE;
 
 h1 {
     	color: rgb(4, 156, 214);
-	font: medium "Source Sans Pro", sans-serif;
+	font-family: "Source Sans Pro", sans-serif;
 }
 
 h2 {
