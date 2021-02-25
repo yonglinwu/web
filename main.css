@@ -18,19 +18,23 @@ h1 {
 }
 
 h2 {
-    	color: rgb(4, 156, 214)
+    	color: rgb(4, 156, 214);
+	font-family: "Source Sans Pro", sans-serif;
 }
 
 h3 {
-	color: rgb(4, 156, 214)
+	color: rgb(4, 156, 214);
+	font-family: "Source Sans Pro", sans-serif;
 }
 
 p {
-	color: rgb(200,201,201)
+	color: rgb(200,201,201);
+	font-family: "Source Sans Pro", sans-serif;
 }
 
 li {
-	color:rgb(200,201,201)
+	color:rgb(200,201,201);
+	font-family: "Source Sans Pro", sans-serif;
 }
 
 body {
